@@ -1,3 +1,3 @@
-Bloom - [ https://bloom.zane.town ] 
+Bloom - [ https://bloom.znschaffer.com ] 
 
 Wax - [ https://github.com/znschaffer/wax.git ]

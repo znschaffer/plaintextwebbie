@@ -1,10 +1,9 @@
-My name is Zane Schaffer
-
-I am 27 years old.
+My name is Zane Schaffer 
+I am 27 years old 👨.
 
 I am an engineering student at North Seattle College.
 
-I was born in Seattle, grew up in Bellevue, and lived around the world for the
+I was born in Seattle ☂, grew up in Bellevue 💰, and lived around the world for the
 past decade.
 
 I had a successful career as a music producer, playing shows in different
@@ -15,4 +14,3 @@ solutions to simple problems, and low level languages.
 
 This site is written in UTF-8 text files, with the home page directory spit out
 by my modified version of tree(1).
-

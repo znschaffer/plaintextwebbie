@@ -1,15 +1,15 @@
-Bloom - [ https://bloom.znschaffer.com ] 
+Bloom 🔗 https://bloom.znschaffer.com
 An interactive coffee brewing timer and recipe guide.
 
-Wax - [ https://github.com/znschaffer/wax.git ]
+Wax 🔗 https://github.com/znschaffer/wax.git 
 Terminal music player akin to cmus written in C.
 
-Jenga - [ https://github.com/znschaffer/jenga ]
+Jenga 🔗 https://github.com/znschaffer/jenga
 Static site builder optimized for single-page stacked posts written in Go.
 
-Rscribe - [ https://github.com/znschaffer/rscribe ]
+Rscribe 🔗 https://github.com/znschaffer/rscribe
 Command line tool for converting between popular markup languages written in Rust.
 
-Nytui - [ https://github.com/znschaffer/nytui ]
+Nytui 🔗 https://github.com/znschaffer/nytui
 Terminal User Interface for reading the top New York Times stories of the day.
 

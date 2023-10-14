@@ -15,6 +15,7 @@
 		font-weight: bold;
 		font-style: normal;
 }
+
 @font-face {
 	font-family: "Berkeley Mono";
 	src:
@@ -32,3 +33,14 @@
 		font-weight: bold;
 		font-style: italic;
 }
+
+* {
+	font-family: "Berkeley Mono";
+	font-size: 14px;
+}
+html {margin: 1rem}
+a{text-decoration: none;color: blue}
+a:link{color:blue}
+a:active{color:blue}
+a:visited{color:blue}
+a:hover{ color: red}

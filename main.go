@@ -20,6 +20,9 @@ func main() {
 	if port == "" {
 		port = "8080"
 	}
+	http.HandleFunc("/ok", func(w http.ResponseWriter, r *http.Request) {
+		w.WriteHeader(http.StatusOK)
+	})
 	http.Handle("/", http.FileServer(http.FS(staticRoot)))
 	http.ListenAndServe(":"+port, nil)
 }

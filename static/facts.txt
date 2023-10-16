@@ -13,4 +13,6 @@ My interests are in Digital Signal Processing, synthesizer design, analog
 solutions to simple problems, and low level languages.
 
 This site is written in UTF-8 text files, with the home page directory spit out
-by my modified version of tree(1).
+by my modified version of tree(1). 
+
+It is all embeded into a single Go binary that acts as this webserver.

@@ -1,15 +1,45 @@
-Bloom 🔗 https://bloom.znschaffer.com
-An interactive coffee brewing timer and recipe guide.
-
-Wax 🔗 https://github.com/znschaffer/wax.git 
-Terminal music player akin to cmus written in C.
-
-Jenga 🔗 https://github.com/znschaffer/jenga
-Static site builder optimized for single-page stacked posts written in Go.
-
-Rscribe 🔗 https://github.com/znschaffer/rscribe
-Command line tool for converting between popular markup languages written in Rust.
-
-Nytui 🔗 https://github.com/znschaffer/nytui
-Terminal User Interface for reading the top New York Times stories of the day.
-
+......................................................................
+.   o   \ o /  _ o        __|    \ /     |__         o _  \ o /   o   .
+.  /|\    |     /\   __\o   \o    |    o/     o/__   /\     |    /|\  .
+.  / \   / \   | \  /) |    ( \  /o\  / )    |   (\  / |   / \   / \  .
+.       .......................................................       .
+. \ o / .                                                     . \ o / .
+.   |   .    Bloom                                            .   |   .
+.  / \  .    -> https://bloom.znschaffer.com                  .  / \  .
+.       .    ?? an interactive coffee brewing timer           .       .
+.  _ o  .                                                     .  _ o  .
+.   /\  .    Wax                                              .   /\  .
+.  | \  .    -> https://github.com/znschaffer/wax.git         .  | \  .
+.       .    ?? a terminal music player written in c          .       .
+.       .                                                     .       .
+.  __\o .    Jenga                                            .  __\o .
+. /) |  .    -> https://github.com/znschaffer/jenga           . /) |  .
+.       .    ?? a static site builder written in go           .       .
+. __|   .                                                     . __|   .
+.   \o  .    Rscribe                                          .    \o .
+.   ( \ .    -> https://github.com/znschaffer/rscribe         .   ( \ .
+.       .    ?? a converter between markup written in rust    .       .
+.  \ /  .                                                     .  \ /  .
+.   |   .    Nytui                                            .   |   .
+.  /o\  .    -> https://github.com/znschaffer/nytui           .  /o\  .
+.       .    ?? a tui for reading the nyt written in js       .       .
+.   |__ .                                                     .   |__ .
+. o/    .                                                     . o/    .
+./ )    .                                                     ./ )    .
+.       .                                                     .       .
+.       .                 *--More To Come--*                  .       .
+. o/__  .                                                     . o/__  .
+.  | (\ .                                                     . |  (\ .
+.       .                                                     .       .
+.  o _  .                                                     .  o _  .
+.  /\   .                                                     .  /\   .
+.  / |  .                                                     .  / |  .
+.       .                                                     .       .
+. \ o / .                                                     . \ o / .
+.   |   .                                                     .   |   .
+.  / \  .                                                     .  / \  .
+.       .......................................................       .
+.   o   \ o /  _ o        __|    \ /     |__         o _  \ o /   o   .
+.  /|\    |     /\   __\o   \o    |    o/     o/__   /\     |    /|\  .
+.  / \   / \   | \  /) |    ( \  /o\  / )    |   (\  / |   / \   / \  .
+.......................................................................
